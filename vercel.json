@@ -1,5 +1,9 @@
 {
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+  "redirects": [
+    {
+      "source": "/amaly-alia2",
+      "destination": "https://jomraikan.my/amaly-alia2",
+      "permanent": true
+    }
   ]
 }
