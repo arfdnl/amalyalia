@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "https://jomraikan.my/amaly-alia2",
-      "destination": "https://jomraikan.my/amaly-alia2",
+      "source": "/amaly-alia",
+      "destination": "/amaly-alia2",
       "permanent": true
     }
   ]
